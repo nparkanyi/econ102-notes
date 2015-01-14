@@ -62,7 +62,7 @@ Principle #8: A country`s standard of living depends on its ability to produce g
 * GDP/capita (gross domestic product / # of inhabitants)
 * productivity depends on equipment/skills/technology/etc.
 * other factors (labour unions, competition from abroad) have little impact on living standards
-* GDP/Capita not perfect measurements (doesn`t show big picture), other factors must be considered: healthcare, child mortality rate, life expectancy, education, literacy rate, crime, fertility rate, Gini Coefficient(income disparity)
+* GDP/Capita not perfect measurements (doesn't show big picture), other factors must be considered: healthcare, child mortality rate, life expectancy, education, literacy rate, crime, fertility rate, Gini Coefficient(income disparity)
 * *human development index* (HDI): composite measure made from GDP/Capita, health, education
 * still, generally positive correlation between GDP/capita and these other factors, but some exceptions (Arab countries: oil wealth, high GDP/capita, but low education/political freedom)
 * Sub-Saharan Africa: political corruption, too high population (population grows faster than economy), lack of education => lack of specialization => low productivity, lack technology/skills 
