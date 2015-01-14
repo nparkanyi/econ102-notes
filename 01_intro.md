@@ -47,7 +47,7 @@ Principle #6 Markets Good Way to Organize Economic Activity
 * communism: goverment controlled organization of economic activity, low incentive
 * problem with communism: low incentive
 * market system: if individuals persue self-interest, interest of society maximized 
-* problem with market system: monopolies (market power, set own price instead of based on supply/demand), externalities (consequences 	not of one`s doing cause market failure (under or overproduction)
+* problem with market system: monopolies (market power, set own price instead of based on supply/demand), externalities (consequences 	not of one's doing cause market failure (under or overproduction)
 * despite shortcomings, market system shown most effective
 
 Principle #7: Governments Can Sometimes Improve Market Outcomes
@@ -55,7 +55,7 @@ Principle #7: Governments Can Sometimes Improve Market Outcomes
 * inhibit monopolies: ban mergers
 * enforce *property rights*
 
-Principle #8: A country`s standard of living depends on its ability to produce goods and services
+Principle #8: A country's standard of living depends on its ability to produce goods and services
 --------------------------------------------------------------------------------------------------
 * most important factor: *productivity* (amount of goods and services produced for each hour of work)
 * _gross domestic product_: total market value of everything produced within country
