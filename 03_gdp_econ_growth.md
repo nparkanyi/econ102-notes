@@ -32,5 +32,4 @@ Well-Being Shortcomings
 * leisure 
 * composition and distribution of output
 * non-material source of well-being
-
 * still, indicators of quality of life generally positively correlated with GDP
