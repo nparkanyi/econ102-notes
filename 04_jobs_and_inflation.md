@@ -95,3 +95,9 @@ Correcting Variables for Inflation
 * __price index__: shows this adjustment
 * amount in today's money = amount in year T $ * (price level today / price level in year T)
 * a dollar amount is __indexed__ for inflation if automatically corrected for inflation by law/contract
+
+Real vs. Nominal Interest Rates
+-------------------------------
+* __nominal interest rate__: interest rate not corrected for inflation
+* __real interest rate__: corrected for inflation
+* real interest rate = (nominal interest rate) - (inflation rate)
