@@ -45,6 +45,14 @@ Saving and Investment in the National Income Accounts
 * in closed economy, I = S
 * also, S = (Y - T - C) + (T - G)
 * __private saving__ (Y - T - C) + __public saving__ (T - G)
+* unlike GDP, goverment spending must be included! (transfer payment, employment insurance, etc.)
 * private savings: household's income not used for consumption or paying taxes
 * public savings: tax revenue - government spending
 
+Budget Deficits and Surpluses
+-----------------------------
+* __surplus__: excess of tax revenue over gvmt. spending
+* __deficit__: shortfall of tax revenue from gvmt. spending
+
+* in __open economy__, I = Prvt. savings + pub. savings + int. borrowing
+* I = S + (T - G) + (M - X)
