@@ -69,7 +69,7 @@ The Market for Loanable Funds
 * public saving: positive -> adds to national savings/supply of loanable funds; negative -> reduces national savings and supply of loanable funds
 
 * Supply-demand curve of loanable funds market: supply provided by households/governments, demand from firms/etc. 
-* 
+
 Policy 1: Tax Incentives
 ------------------------
 * tax incentives for saving increase supply (increase in **sales** taxes), supply graph moves to the right
