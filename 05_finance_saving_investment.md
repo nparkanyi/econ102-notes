@@ -44,6 +44,7 @@ Saving and Investment in the National Income Accounts
 * I = investment
 * I = Y - C - G: total income in the economy remaining after paying for consumption and government purchase: __savings__ or __national savings (S)__
 * in closed economy, I = S
+* T = taxes
 * also, S = (Y - T - C) + (T - G)
 * __private saving__ (Y - T - C) + __public saving__ (T - G)
 * unlike GDP, goverment spending must be included! (transfer payment, employment insurance, etc.)
