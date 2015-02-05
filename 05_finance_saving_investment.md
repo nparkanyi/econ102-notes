@@ -26,7 +26,7 @@ Financial Intermediaries
 * __banks__: take deposits from people, lend out to others who want to borrow
 * __mutual funds__: institutions that sell shares to public, buy portfolios of stocks/bonds
 
-Insolvency and Illiquidity
+Insolvency and ILLIQUIDITY
 ---------------------------
 * __net worth__: total value of what institution lent - market value of what borrowed
 * if positive, __solvent__
