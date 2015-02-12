@@ -221,3 +221,23 @@ Quantity Theory
 * change in M not affect Y => money is neutral, Y determined by technology/resources
 * P changes by same % as PY and M
 * Rapid money supply growth => rapid inflation
+
+Summary
+-------
+* real GDP constant => inflation rate = money growth rate
+* real GDP growing => inflation rate less than money growth rate
+* economic growth increases # of trasactions
+* some money growth needed for these extra trasactions
+
+Inflation Tax
+-------------
+* inadequate tax revenue, gvmt prints money to pay for its spending
+* revenue from printing money __inflation tax__ (causes inflation, which is like a tax on everyone who uses money)
+* sometimes used as alternative to increasing income tax to repay debts (i.e net effect the same, but people don't notice as much, less backlash)
+
+The Fisher Effect
+-----------------
+* nominal interest rate = inflation rate + real interest rate
+* real interest rate is determined by saving/investment in loanable funds market
+* money supply growth determines inflation rate
+* equation shows how the nominal interest rate is determined
