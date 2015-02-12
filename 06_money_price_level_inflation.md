@@ -51,6 +51,7 @@ Bank of Canada
 * __bank of canada__: central bank of canada (est. 1935, nationalized 1938)
 * structure: board of directors including deputy minister of Finance
 * members appointed by minister of Finance
+* __lender of last resort__
 
 4 Primary Functions
 ---------------------
@@ -126,3 +127,97 @@ How Banks Create Money
 * __desired reserve ratio__: bank's reserves to total deposit plans to hold
 * __currency drain__: leakage of reserves into currency
 * __currency drain ratio__: ratio of currency to deposits
+
+Chapter 24p2: Money Market/Quantity Theory of Money
+======================================
+
+* __quantity theory of money__
+
+Classical Theory of Inflation
+-----------------------------
+
+* quantity theory of money explains long-term determinants of price level/inflation rate
+
+Value of Money
+--------------
+
+* P = price level
+* 1/P value of $1 measured in goods
+* i.e one candy bar: P = $2 => $1 is 1/2 candy bar
+
+Quantity Theory of Money
+-----------------------
+
+* developed by David Hume
+* asserts quantity of money determines value of money 
+* 2 approaches: supply-demand or equation
+
+Money Supply
+------------
+* determined by Bank of Canada, banking system, consumers
+* assume BOC precisely ctrls. MS
+
+Money Demand
+-------------
+* rise price level => higher quantity of nominal money, doesn't change real money
+* __nominal money__: amount measured in dollars
+* __real money__: nominal money / price level
+* demand of nominal money proportional to price level
+
+* __nominal interest rate__: opportunity cost of holding wealth in money
+
+* increase in real GDP increases expenditure => increases quantity of real money people plan to hold
+* financial innovation lowers cost of switching between money/assets, decrease real money planned to be held
+
+Money Market Equilibrium
+------------------------
+
+* when quantity of money demanded equals quantity supplied
+* adjustments to achieve this vary long/short-term
+* short-run equilibrium (see slides)
+* long-run: loanable funds market determines real interest rate
+* nominal interest rate = equilibrium real interest rate plus expected inflation rate
+* long-run: real GDP = potential GDP, only variable to adjust: price level
+* (see slides)
+
+Adjustment Process
+------------------
+* increase MS causes P to rise
+
+Real vs Nominal Variables
+--------------------------
+
+* __nominal variables__: measured in monetary units 
+* __real variables__: measured in physical units
+* __relative prices__: ratio between prices of two goods = real variable
+
+Classical Dichotomy
+--------------------
+
+* theoretical separation of nominal and real values
+* Hume et al. suggest monetary developments affect only nominal variables
+* doubling money supply => nominal variables double, real variables remain unchanged 
+
+The Neutrality of Money
+------------------------
+
+* proposition that changes in money supply don't affect real variables (i.e relative prices remain the same regardless of currency values)
+* similarly, real wage W/P remains unchanged 
+
+* __quantity theory of money__: proposes that in long run increase in quantity of money => equal increase in price level
+* based on __velocity of circulation__ and __equation of exchange__
+* velocity of circulation avg. # times in a year a dollar is used to purchase goods and services in GDP
+* V = PY / M (P = price level, Y= real GDP, M=quantity of money) 
+* note: PY = nominal GDP
+
+The Quantity Equation
+---------------------
+* MV = PY
+
+Quantity Theory
+--------------
+* V is stable
+* change in M => nominal GDP change by same %
+* change in M not affect Y => money is neutral, Y determined by technology/resources
+* P changes by same % as PY and M
+* Rapid money supply growth => rapid inflation
