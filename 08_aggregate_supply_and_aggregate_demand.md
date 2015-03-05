@@ -62,3 +62,28 @@ Long-term macroeconomic Equilibrium
 -------------------------------
 * occurs when real GDP = potential GDP; economy is on its LAS curve
 * occurs at intersection of AD and LAS
+
+* __above full-employment equilibrium__: equilibrium real GDP exceeds potential GDP
+* __below full-employment equilibrium__: equilibrium in which real GDP less than potential GDP
+* __output gap__: difference in real GDP and potential GDP
+
+Macroeconomic Schools of Thought
+===============================
+
+Classical view
+--------------
+* economy self-regulating in long-run
+* __classical dichotomy__
+* __new classical__ view: business cycle fluctuations are efficient responses of well-functioning market economy affected by shocks of uneven technological innovation
+
+Keynesian View
+-------------
+* argues recessions result from inadequate demand, policymakers should shift AD
+* left alone, economy would rarely operate at full employment, active help from fiscal policy necessary
+* John Maynard Keynes
+* __new Keynesian__ view: not only is money wage sticky, but also prices are sticky, misperception theory
+
+Monetarist View
+--------------
+* economy self-regulating, will operate at full employment, provided that monetary policy is not erratic, pace of money growth kept steady
+* use erratic central bank policy to explain short term fluctuations
