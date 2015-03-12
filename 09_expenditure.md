@@ -54,3 +54,13 @@ The Multiplier
 * multiplier = 1 / (1- slope of AE curve) = 1 / (1 - MPC) = 1 / MPS
 * also = change in real GDP / change in autonomous expenditure
 * imports and income taxes reduce size of multiplier
+* + in autonomous expenditure brings unplanned decrease in inventories, expansion
+* - in autonomous expenditure brings unplanned increase in inventories, recession
+* in long run, multiplier is zero
+
+Adjusting Quantities and Prices
+===============================
+* firms don't hold prices constant for long
+* change in inventories: change in production and prices => price level changes
+* AS-AD model explains determination of r. GDP and price level
+* two models connected
